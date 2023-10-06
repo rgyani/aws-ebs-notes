@@ -38,7 +38,7 @@ Latency means, the time it takes for an I/O operation to complete.
 
 ## gp2 Volumes
 
-The current default general purpose SSD Storage type with size ranging from 1GB - 1TB
+The current default general purpose SSD Storage type with size ranging from 1GB - 16TB
 
 Gp2 volume type IOPS are calculated based on the size of the volume. This is known as the **baseline performance**
 

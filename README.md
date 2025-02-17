@@ -16,6 +16,8 @@ EBS storage performance could be measured in two ways.
 
 Latency means, the time it takes for an I/O operation to complete.
 
+![alt text](imgs/image-11.jpg)
+
 ## SSD vs HDD
 
 |  | SSD Volumes | HDD Volumes |
